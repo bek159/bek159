@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bek159
-- 👀 I’m interested in php,django and java
-- 🌱 I’m currently learning django
+- 👀 I’m interested in node,react,php,django and java
+- 🌱 I’m currently learning node,react
 - 
 
 <!---
